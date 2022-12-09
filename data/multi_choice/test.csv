@@ -1,0 +1,401 @@
+object,action,effect_sentence_1,effect_sentence_2,effect_sentence_3,effect_sentence_4,label
+flowers,arrange,the object gets tangled up,the objects are being moved into a particular pattern,the objects are in a pretty design,the object gets tangled up,2
+flowers,arrange,the objects are being moved into a particular pattern,the object gets tangled up,the object gets tangled up,objects are organized together,3
+flowers,arrange,the object gets tangled up,the objects are being placed around a vase,the object gets tangled up,the objects are being moved into a particular pattern,1
+flowers,arrange,the object gets tangled up,the objects are being moved into a particular pattern,the object gets tangled up,the objects are arranged in the vase,3
+flowers,arrange,the object gets tangled up,the objects are positioned so that they look pleasing to the eye,the objects are being moved into a particular pattern,the object gets tangled up,1
+flowers,arrange,the objects are being moved into a particular pattern,the objects are organized into a certain group,the object gets tangled up,the object gets tangled up,1
+flowers,arrange,the objects are attractively placed in a vase,the objects are being moved into a particular pattern,the object gets tangled up,the object gets tangled up,0
+flowers,arrange,the objects are being moved into a particular pattern,the object gets tangled up,the objects are being organized for display,the object gets tangled up,2
+flowers,arrange,the object gets tangled up,the objects are being moved into a particular pattern,objects are artfully placed to be visually pleasing,the object gets tangled up,2
+flowers,arrange,the object gets tangled up,the objects are moved around and grouped together into a boquet,the object gets tangled up,the objects are being moved into a particular pattern,1
+knee,bend,the object gets smaller,the object will be falling to the ground soon,there is an abrasion of the skin on the object,my object needs surgery,3
+knee,bend,the object will be falling to the ground soon,a object is folding in two,the object gets smaller,there is an abrasion of the skin on the object,1
+knee,bend,there is an abrasion of the skin on the object,the object will be falling to the ground soon,the object is being contorted to an angle,the object gets smaller,2
+knee,bend,the object gets smaller,the object will be falling to the ground soon,fold the leg in a way the object is bent forward,there is an abrasion of the skin on the object,2
+knee,bend,there is an abrasion of the skin on the object,the object is flexed at an angle,the object gets smaller,the object will be falling to the ground soon,1
+knee,bend,there is an abrasion of the skin on the object,you lower towards the ground,the object will be falling to the ground soon,the object gets smaller,1
+knee,bend,there is an abrasion of the skin on the object,the object will be falling to the ground soon,a object is bent at an angle,the object gets smaller,2
+knee,bend,there is an abrasion of the skin on the object,flex the object,the object gets smaller,the object will be falling to the ground soon,1
+knee,bend,there is an abrasion of the skin on the object,the object gets smaller,the object is folded,the object will be falling to the ground soon,2
+knee,bend,the object is folded over,the object gets smaller,there is an abrasion of the skin on the object,the object will be falling to the ground soon,0
+window,block,the object becomes protected from being opened,the object falls down after being cut through,a object is obstructed,the object can not be seen through,3
+window,block,the object becomes protected from being opened,an item is placed in front of the object,the object falls down after being cut through,a object is obstructed,1
+window,block,a object is obstructed,the object becomes protected from being opened,the object falls down after being cut through,the object is obscured from access,3
+window,block,the object becomes protected from being opened,a object is obstructed,the view of the object was obstructed,the object falls down after being cut through,2
+window,block,a object is obstructed,the object becomes protected from being opened,the object is stuck in place,the object falls down after being cut through,2
+window,block,a object is obstructed,the object falls down after being cut through,the object becomes protected from being opened,a object is sealed up,3
+window,block,the object becomes protected from being opened,the object is obstructing my view,a object is obstructed,the object falls down after being cut through,1
+window,block,a object is obstructed,the object becomes protected from being opened,the object falls down after being cut through,place items in front of the object so it cannot be passed through,3
+window,block,the object falls down after being cut through,the object becomes protected from being opened,the object is barricaded,a object is obstructed,2
+window,block,a object is obstructed,the object falls down after being cut through,the object is barricaded,the object becomes protected from being opened,2
+potato,boil,the objectes is heated until it is tender,the yolk and white of the object became hard,the object was separated from its base and no longer upright,putting a object into a pot,3
+potato,boil,the yolk and white of the object became hard,the objectes is heated until it is tender,the object was separated from its base and no longer upright,the object is cooked in very hot bubbling water,3
+potato,boil,placing a object in boiling water to cook it so its edible,the yolk and white of the object became hard,the objectes is heated until it is tender,the object was separated from its base and no longer upright,0
+potato,boil,a object is cooked using boiling water,the objectes is heated until it is tender,the object was separated from its base and no longer upright,the yolk and white of the object became hard,0
+potato,boil,the yolk and white of the object became hard,the objectes is heated until it is tender,the object is being cooked in hot water,the object was separated from its base and no longer upright,2
+potato,boil,the object was separated from its base and no longer upright,the yolk and white of the object became hard,the objectes is heated until it is tender,the object is cooking in heated water,3
+potato,boil,the yolk and white of the object became hard,the objectes is heated until it is tender,the object was separated from its base and no longer upright,the object is heated in hot water,3
+potato,boil,the object was separated from its base and no longer upright,the yolk and white of the object became hard,the objectes is heated until it is tender,the object gets hot and soft to eat,3
+potato,boil,the object was separated from its base and no longer upright,the yolk and white of the object became hard,the objectes is heated until it is tender,the object is placed in water and heated until ready to be eaten,3
+potato,boil,the object was separated from its base and no longer upright,the objectes is heated until it is tender,the object is getting very hot and soft,the yolk and white of the object became hard,2
+egg,break,an object is split open,the object divides into random broken sections,the bark is being taken off the object,an object is being cracked open,3
+egg,break,an object is split open,the object divides into random broken sections,the object has its shell cracking open,the bark is being taken off the object,2
+egg,break,the bark is being taken off the object,the object divides into random broken sections,the object is opened and the contents spill out,an object is split open,2
+egg,break,an object is split open,the bark is being taken off the object,the object divides into random broken sections,the object is cracked and its yolk is released,3
+egg,break,the object divides into random broken sections,an object is split open,the bark is being taken off the object,the object is being made for breakfast,3
+egg,break,the bark is being taken off the object,the object yolk and white escape the shell,the object divides into random broken sections,an object is split open,1
+egg,break,the bark is being taken off the object,the object divides into random broken sections,an object is shattered,an object is split open,2
+egg,break,the object divides into random broken sections,an object is split open,the bark is being taken off the object,the object shell is opened,3
+egg,break,the object shell is shattered and the object is oozing out,an object is split open,the bark is being taken off the object,the object divides into random broken sections,0
+egg,break,the object content spills out,the bark is being taken off the object,an object is split open,the object divides into random broken sections,0
+paper,burn,the object is destroyed with fire,the object falls down after being cut through,object is bent in two and pressed to make a dent,the object is being lit on fire,0
+paper,burn,the object falls down after being cut through,object will be set on fire,the object is being lit on fire,object is bent in two and pressed to make a dent,1
+paper,burn,the object is being destroyed by fire,the object falls down after being cut through,the object is being lit on fire,object is bent in two and pressed to make a dent,0
+paper,burn,the object is being lit on fire,object is set aflame,the object falls down after being cut through,object is bent in two and pressed to make a dent,1
+paper,burn,the object is being lit on fire,object is bent in two and pressed to make a dent,the object falls down after being cut through,the object is lit on fire and turned to ash,3
+paper,burn,the object falls down after being cut through,the object is being lit on fire,object is being set on fire,object is bent in two and pressed to make a dent,2
+paper,burn,the object will release earmth,the object is being lit on fire,object is bent in two and pressed to make a dent,the object falls down after being cut through,0
+paper,burn,object is bent in two and pressed to make a dent,the object is being lit on fire,the object falls down after being cut through,the object has been completely destroyed,3
+paper,burn,the object is being lit on fire,the object falls down after being cut through,the object is caught on fire,object is bent in two and pressed to make a dent,2
+paper,burn,the object is being lit on fire,the object falls down after being cut through,the object is hot,object is bent in two and pressed to make a dent,2
+door,burst,the object is forcefully opened,a object is obstructed,the object is destroyed,the object is denuded of its bark,0
+door,burst,the object is broken so it can be entered,a object is obstructed,the object is destroyed,the object is denuded of its bark,0
+door,burst,a object is destroyed,the object is destroyed,a object is obstructed,the object is denuded of its bark,0
+door,burst,the object is denuded of its bark,a object collapses from a force,a object is obstructed,the object is destroyed,1
+door,burst,the object is exploded,a object is obstructed,the object is destroyed,the object is denuded of its bark,0
+door,burst,the object is destroyed,the teacher open the burst object,a object is obstructed,the object is denuded of its bark,1
+door,burst,a object is obstructed,the object is destroyed,the object is being broken,the object is denuded of its bark,2
+door,burst,the object is denuded of its bark,the object is left open,a object is obstructed,the object is destroyed,1
+door,burst,a object is obstructed,the object is opened suddenly,the object is denuded of its bark,the object is destroyed,1
+door,burst,a object is obstructed,the object is denuded of its bark,break open the object in a sudden or violent way,the object is destroyed,2
+umbrella,carry,hold a object in the air as you walk,the object expands,the object is moving,the object is divided into multiple pieces,2
+umbrella,carry,the object is divided into multiple pieces,the object expands,hold a object in the air as you walk,the object moves from one place to another,3
+umbrella,carry,an object is lifted up off the ground,the object expands,the object is divided into multiple pieces,hold a object in the air as you walk,0
+umbrella,carry,a person will take the object with them to a new destination,the object is divided into multiple pieces,the object expands,hold a object in the air as you walk,0
+umbrella,carry,the object is divided into multiple pieces,the object expands,the object is kept in hand in case it rains,hold a object in the air as you walk,2
+umbrella,carry,hold a object in the air as you walk,the object is divided into multiple pieces,the object expands,the object is in my hand,3
+umbrella,carry,hold a object in the air as you walk,the object is divided into multiple pieces,the object expands,the object protects from being wet by the rain,3
+umbrella,carry,hold a object in the air as you walk,the object is transported elsewhere,the object expands,the object is divided into multiple pieces,1
+umbrella,carry,the object expands,the object is taken along with someone,hold a object in the air as you walk,the object is divided into multiple pieces,1
+umbrella,carry,hold a object in the air as you walk,the object is divided into multiple pieces,the object expands,the object is moved from one area to another,3
+wood,chop,the object is cut at its base until it falls,the object is cut into pieces,the object is stacked together,the object is set on fire,1
+wood,chop,the object is stacked together,the object is cut at its base until it falls,the object is set on fire,the object is separated into sections by an axe,3
+wood,chop,the object is set on fire,the object is stacked together,object is split into smaller pieces,the object is cut at its base until it falls,2
+wood,chop,the object is stacked together,the object is cut at its base until it falls,the object is set on fire,the object is separated into multiple pieces,3
+wood,chop,the object is stacked together,the object is set on fire,the object is divided into multiple pieces,the object is cut at its base until it falls,2
+wood,chop,the object is being separated into many pieces,the object is set on fire,the object is stacked together,the object is cut at its base until it falls,0
+wood,chop,winter is coming so he chop object to get ready,the object is stacked together,the object is cut at its base until it falls,the object is set on fire,0
+wood,chop,the object is cut at its base until it falls,object is cut into smaller pieces,the object is stacked together,the object is set on fire,1
+wood,chop,the object is cut at its base until it falls,the object is set on fire,make object into smaller pieces,the object is stacked together,2
+wood,chop,the object is cut at its base until it falls,the object is set on fire,the object is stacked together,the object is now in tiny pieces,3
+book,close,a object is being scorched by fire,the object pages are being protected from damage from the environment,a object is set aflame,a object partially extended from a cabinet is pushed back in,1
+book,close,a object is being scorched by fire,a object is set aflame,a object partially extended from a cabinet is pushed back in,the object is clasped shut,3
+book,close,the object is shut to protect the pages,a object partially extended from a cabinet is pushed back in,a object is set aflame,a object is being scorched by fire,0
+book,close,a object partially extended from a cabinet is pushed back in,the object covers are shut,a object is being scorched by fire,a object is set aflame,1
+book,close,a object is set aflame,a object partially extended from a cabinet is pushed back in,the object is now back on the shelf,a object is being scorched by fire,2
+book,close,a object is being scorched by fire,a object partially extended from a cabinet is pushed back in,a object is set aflame,the object will be shut by closing the pages,3
+book,close,a object is being scorched by fire,the pages of the object at all stacked,a object is set aflame,a object partially extended from a cabinet is pushed back in,1
+book,close,a object partially extended from a cabinet is pushed back in,the object has parts of it pages shutting,a object is set aflame,a object is being scorched by fire,1
+book,close,a object is set aflame,the pages are all flat together from cover to cover,a object is being scorched by fire,a object partially extended from a cabinet is pushed back in,1
+book,close,a object is being scorched by fire,a object partially extended from a cabinet is pushed back in,a object is set aflame,a object is shut,3
+meat,cook,the object is heated up,the object is cut into many pieces,the object is heated up,the object is split into pieces,0
+meat,cook,the object is heated up,the object is cut into many pieces,the object is heated,the object is split into pieces,2
+meat,cook,the object gets hotter and ready to eat,the object is heated up,the object is split into pieces,the object is cut into many pieces,0
+meat,cook,the object is cut into many pieces,object is cooked using heat,the object is split into pieces,the object is heated up,1
+meat,cook,the object is cut into many pieces,the object is heated up,the object is split into pieces,the object will be heated,3
+meat,cook,the object is heated up,the object is split into pieces,the object is exposed to high temperatures,the object is cut into many pieces,2
+meat,cook,the object is heated up,the object is split into pieces,the object is cooked,the object is cut into many pieces,2
+meat,cook,the object is heated up,the object is cut into many pieces,the object is split into pieces,the object is made so i can be eaten,3
+meat,cook,the object is heated up,the object is split into pieces,the object is well done,the object is cut into many pieces,2
+meat,cook,the object is cut into many pieces,the object is heated up,the object is split into pieces,the object is getting hot,3
+bottle,crack,the objects is weakened and covered in stress lines,a object is lifted,the object is now without a lid so its contents are open to the air,the object gets a small break and may or may not still be usable,3
+bottle,crack,the objects is weakened and covered in stress lines,the object is now without a lid so its contents are open to the air,a object is broken into shards,a object is lifted,2
+bottle,crack,a object is lifted,the objects is weakened and covered in stress lines,the object is broken,the object is now without a lid so its contents are open to the air,2
+bottle,crack,a object is lifted,the object is now without a lid so its contents are open to the air,the objects is weakened and covered in stress lines,the liquid is pouring from the crack in the object,3
+bottle,crack,the objects is weakened and covered in stress lines,a object is being opened,the object is now without a lid so its contents are open to the air,a object is lifted,1
+bottle,crack,the object has a part of it breaking,a object is lifted,the objects is weakened and covered in stress lines,the object is now without a lid so its contents are open to the air,0
+bottle,crack,a object is lifted,the object is broken,the object is now without a lid so its contents are open to the air,the objects is weakened and covered in stress lines,1
+bottle,crack,a object is lifted,the object is shattered on the floor,the objects is weakened and covered in stress lines,the object is now without a lid so its contents are open to the air,1
+bottle,crack,the object is now without a lid so its contents are open to the air,a object is lifted,a object glass is cracked becoming damaged,the objects is weakened and covered in stress lines,2
+bottle,crack,the objects is weakened and covered in stress lines,the object is thrown on the floor,the object is now without a lid so its contents are open to the air,a object is lifted,1
+meat,cut,the object has its upper section separated from its base,the temperature is more evenly distributed,the object is divided into multiple pieces,the object is cut into many pieces,2
+meat,cut,the object has its upper section separated from its base,the object is cut into many pieces,the object is chopped into pieces,the temperature is more evenly distributed,2
+meat,cut,the temperature is more evenly distributed,the object is cut into many pieces,the object is in tiny pieces,the object has its upper section separated from its base,2
+meat,cut,the object is divided into multiple pieces,the temperature is more evenly distributed,the object is cut into many pieces,the object has its upper section separated from its base,0
+meat,cut,the object is cut into many pieces,the object has its upper section separated from its base,the object is easier to chew,the temperature is more evenly distributed,2
+meat,cut,the object will be divided into several pieces,the temperature is more evenly distributed,the object has its upper section separated from its base,the object is cut into many pieces,0
+meat,cut,the temperature is more evenly distributed,the object has its upper section separated from its base,the object is cut into many pieces,the object falls into slices,3
+meat,cut,the temperature is more evenly distributed,the object is cut into many pieces,object is sliced into multiple pieces,the object has its upper section separated from its base,2
+meat,cut,the object is made into smaller pieces usually for cooking or eating,the temperature is more evenly distributed,the object is cut into many pieces,the object has its upper section separated from its base,0
+meat,cut,the object has its upper section separated from its base,the object is cut into many pieces,the temperature is more evenly distributed,object is cut into smaller pieces,3
+window,fasten,a object is being locked,the object was securely closed,the object is cut into smaller pieces,the object becomes protected from being opened,1
+window,fasten,the object becomes protected from being opened,a object is being locked,the object is is pressed against the frame,the object is cut into smaller pieces,2
+window,fasten,the object is cut into smaller pieces,a object is being locked,the object is locked,the object becomes protected from being opened,2
+window,fasten,the object becomes protected from being opened,the object is cut into smaller pieces,a object is secured shut,a object is being locked,2
+window,fasten,the object is cut into smaller pieces,the object is protected from accidental opening,a object is being locked,the object becomes protected from being opened,1
+window,fasten,the object becomes protected from being opened,a object is being locked,the object is cut into smaller pieces,keep the object from coming open,3
+window,fasten,the object is closed up,the object is cut into smaller pieces,a object is being locked,the object becomes protected from being opened,0
+window,fasten,a object is being locked,the man should fasten the object shut,the object becomes protected from being opened,the object is cut into smaller pieces,1
+window,fasten,the object is cut into smaller pieces,a object is being locked,the object becomes protected from being opened,close the object door without locking,3
+window,fasten,the object is cut into smaller pieces,the object becomes protected from being opened,a object is being locked,the object is locked shut,3
+egg,fry,an object is split open,the object is cooking in hot liquid,the objectes have become crispy and cooked,the object fall from the table and broke in pieces,1
+egg,fry,the object sizzles and solidifies and becomes hot,an object is split open,the objectes have become crispy and cooked,the object fall from the table and broke in pieces,0
+egg,fry,the object fall from the table and broke in pieces,the objectes have become crispy and cooked,a raw object is cooked using high heat in a pan,an object is split open,2
+egg,fry,an object is split open,the object is being cooked,the objectes have become crispy and cooked,the object fall from the table and broke in pieces,1
+egg,fry,the objectes have become crispy and cooked,the object fall from the table and broke in pieces,an object is split open,the object is heated in a skillet until it is ready to eat,3
+egg,fry,the objectes have become crispy and cooked,an object is split open,the object fall from the table and broke in pieces,the object is cooked in a skillet to be eaten,3
+egg,fry,the object fall from the table and broke in pieces,the object is being cooked,the objectes have become crispy and cooked,an object is split open,1
+egg,fry,the objectes have become crispy and cooked,an object is split open,the object is cooked in a pan on the stove,the object fall from the table and broke in pieces,2
+egg,fry,an object is split open,for breakfast she decided to fry an object,the objectes have become crispy and cooked,the object fall from the table and broke in pieces,1
+egg,fry,the object is hot,the object fall from the table and broke in pieces,the objectes have become crispy and cooked,an object is split open,0
+carrot,grate,little pieces of object are made,a object is cut into small pieces,little pieces of object are made,something comes out of the object,0
+carrot,grate,something comes out of the object,the object is shredded,a object is cut into small pieces,little pieces of object are made,1
+carrot,grate,a object is cut into small pieces,the object is being shredded into small long strips,little pieces of object are made,something comes out of the object,1
+carrot,grate,a object is cut into small pieces,the object is being cut into many small flakes,little pieces of object are made,something comes out of the object,1
+carrot,grate,the object is shredded into tiny pieces,something comes out of the object,little pieces of object are made,a object is cut into small pieces,0
+carrot,grate,the object is made into fine strands,something comes out of the object,a object is cut into small pieces,little pieces of object are made,0
+carrot,grate,something comes out of the object,a object is cut into small pieces,little pieces of object are made,a object is being peeled,3
+carrot,grate,little pieces of object are made,something comes out of the object,a object is cut into small pieces,the object is being shredded for cooking purposes,3
+carrot,grate,little pieces of object are made,a object is cut into small pieces,the object is shredded into small pieces,something comes out of the object,2
+carrot,grate,little pieces of object are made,a object is shred into smaller strips,something comes out of the object,a object is cut into small pieces,1
+bag,hang,the hang is on my arm,the object is put on a hanger,a object is placed on a hook,something comes out of the object,2
+bag,hang,the hang is on my arm,to put a object on the wall letting it rest on a hook,the object is put on a hanger,something comes out of the object,1
+bag,hang,the object is put on a hanger,the hang is on my arm,something comes out of the object,the object is now out of reach from any children,3
+bag,hang,the object is attached to a hook on the wall,the hang is on my arm,the object is put on a hanger,something comes out of the object,0
+bag,hang,something comes out of the object,the hang is on my arm,the object is placed on a hook,the object is put on a hanger,2
+bag,hang,something comes out of the object,the hang is on my arm,the object is put on a hanger,the object rests on another surface,3
+bag,hang,something comes out of the object,the hang is on my arm,the object is put on a hanger,the object is placed on a hook,3
+bag,hang,the object is put on a hanger,the object is now off the floor,the hang is on my arm,something comes out of the object,1
+bag,hang,the object is put on a hanger,something comes out of the object,the object is suspended by handle on a hook,the hang is on my arm,2
+bag,hang,something comes out of the object,the hang is on my arm,the object is put on a hanger,the object is put up somewhere out of the way,3
+paper,ignite,the object is lit on fire,the object is sliced into pieces,the object is set ablaze and begins to blacken,object is bent in two and pressed to make a dent,2
+paper,ignite,object is set aflame,the object is sliced into pieces,the object is lit on fire,object is bent in two and pressed to make a dent,0
+paper,ignite,the object is lit on fire,the object is being lit on fire,object is bent in two and pressed to make a dent,the object is sliced into pieces,1
+paper,ignite,the object is set ablaze,object is bent in two and pressed to make a dent,the object is lit on fire,the object is sliced into pieces,0
+paper,ignite,the object is lit on fire,the object is sliced into pieces,object is bent in two and pressed to make a dent,the object is on fire,3
+paper,ignite,the object is lit on fire,the object is sliced into pieces,object is bent in two and pressed to make a dent,the object is on fire,3
+paper,ignite,the object is set on fire,the object is lit on fire,the object is sliced into pieces,object is bent in two and pressed to make a dent,0
+paper,ignite,object is bent in two and pressed to make a dent,the object is lit on fire,the object is sliced into pieces,the object catches on fire,3
+paper,ignite,the object is on fire,object is bent in two and pressed to make a dent,the object is sliced into pieces,the object is lit on fire,0
+paper,ignite,the object is sliced into pieces,the object is lit on fire,object is bent in two and pressed to make a dent,object is being set on fire,3
+door,kick,the object flies away,a sound is made from the impact,the object will be without branches,a object is obstructed,1
+door,kick,a object is obstructed,the object flies away,the object is broken,the object will be without branches,2
+door,kick,the object flies away,a object is obstructed,the object will be without branches,the object vibrates,3
+door,kick,a object is obstructed,the object is struck by a body part,the object will be without branches,the object flies away,1
+door,kick,a object is obstructed,the object flies away,the object lock is broken and swings open,the object will be without branches,2
+door,kick,the object will be without branches,a object is obstructed,the object is now broken,the object flies away,2
+door,kick,the object will be without branches,the object is being hit by a foot,the object flies away,a object is obstructed,1
+door,kick,the object will be without branches,the object is hit with a foot,the object flies away,a object is obstructed,1
+door,kick,a object is hit with the foot,the object flies away,a object is obstructed,the object will be without branches,0
+door,kick,the object flies open,a object is obstructed,the object flies away,the object will be without branches,0
+box,label,the object is now able to be shipped,the doctor writes the word poison on a object to insure everybody can read it and be aware of it,the object is made into smaller parts,the object is covered in something to obscure it,0
+box,label,the doctor writes the word poison on a object to insure everybody can read it and be aware of it,the object is made into smaller parts,the object content is written on it,the object is covered in something to obscure it,2
+box,label,the object is being marked with an identifier,the object is covered in something to obscure it,the doctor writes the word poison on a object to insure everybody can read it and be aware of it,the object is made into smaller parts,0
+box,label,the object is made into smaller parts,the object will have a label placed on it,the object is covered in something to obscure it,the doctor writes the word poison on a object to insure everybody can read it and be aware of it,1
+box,label,the object has a name so i can tell what is in it,the object is covered in something to obscure it,the doctor writes the word poison on a object to insure everybody can read it and be aware of it,the object is made into smaller parts,0
+box,label,the object has writing on it,the doctor writes the word poison on a object to insure everybody can read it and be aware of it,the object is covered in something to obscure it,the object is made into smaller parts,0
+box,label,the doctor writes the word poison on a object to insure everybody can read it and be aware of it,the object is covered in something to obscure it,the object is made into smaller parts,the object is being marked,3
+box,label,the doctor writes the word poison on a object to insure everybody can read it and be aware of it,the object is made into smaller parts,the object is covered in something to obscure it,a label is attached to a object,3
+box,label,the object is covered in something to obscure it,the doctor writes the word poison on a object to insure everybody can read it and be aware of it,a tag with words is added to a object to identify it,the object is made into smaller parts,2
+box,label,the object is made into smaller parts,the doctor writes the word poison on a object to insure everybody can read it and be aware of it,the object is covered in something to obscure it,a object contents are listed on the outside,3
+drawer,lock,object becomes cooked is now firmer and edible,before you leave the house you should lock the object,the object is shut,the object is secured with a mechanism requiring a key,3
+drawer,lock,before you leave the house you should lock the object,the object is shut,the object cannot be moved,object becomes cooked is now firmer and edible,2
+drawer,lock,the object is made so i cannot be opened,before you leave the house you should lock the object,the object is shut,object becomes cooked is now firmer and edible,0
+drawer,lock,the object is shut,before you leave the house you should lock the object,object becomes cooked is now firmer and edible,the object is secured,3
+drawer,lock,object becomes cooked is now firmer and edible,the object is shut,before you leave the house you should lock the object,the object is being closed and secured,3
+drawer,lock,the object is closed and a key is put inside and turned,before you leave the house you should lock the object,the object is shut,object becomes cooked is now firmer and edible,0
+drawer,lock,the object is shut,object becomes cooked is now firmer and edible,before you leave the house you should lock the object,the object is made secure,3
+drawer,lock,the object is being bolted to prevent opening and closing,object becomes cooked is now firmer and edible,before you leave the house you should lock the object,the object is shut,0
+drawer,lock,object becomes cooked is now firmer and edible,a object is secured shut,before you leave the house you should lock the object,the object is shut,1
+drawer,lock,the object is shut,object becomes cooked is now firmer and edible,before you leave the house you should lock the object,object that is secure no one can open it without a key,3
+box,open,the object is being pulled ajar,the object is covered in something to obscure it,the object is changed from an open to a close state,a object is opened to show its contents,3
+box,open,move the lid of a object allowing view into its contents,the object is being pulled ajar,the object is changed from an open to a close state,the object is covered in something to obscure it,0
+box,open,the object is changed from an open to a close state,the object is being pulled ajar,the object has its flaps being flipped,the object is covered in something to obscure it,2
+box,open,the object is unsealed and the lid is lifted to reveal the contents inside,the object is changed from an open to a close state,the object is covered in something to obscure it,the object is being pulled ajar,0
+box,open,a little girl open the object,the object is changed from an open to a close state,the object is covered in something to obscure it,the object is being pulled ajar,0
+box,open,the object is changed from an open to a close state,the object is being pulled ajar,the object is covered in something to obscure it,you find out what is inside the object,3
+box,open,the contents of the object are made accessible,the object is changed from an open to a close state,the object is covered in something to obscure it,the object is being pulled ajar,0
+box,open,the object is expanded,the object is covered in something to obscure it,the object is changed from an open to a close state,the object is being pulled ajar,0
+box,open,the object is covered in something to obscure it,the object is open,the object is changed from an open to a close state,the object is being pulled ajar,1
+box,open,the object is being pulled ajar,the object is changed from an open to a close state,the object is covered in something to obscure it,the object revealed a birthday gift,3
+banana,peel,the object becomes shaped like a coil,objects have their outer layers removed,the object becomes shaped like a coil,in order to eat the object he had to peel it,3
+banana,peel,objects have their outer layers removed,sue wanted the object so she decided to peel it,the object becomes shaped like a coil,the object becomes shaped like a coil,1
+banana,peel,objects have their outer layers removed,the object becomes shaped like a coil,the object will be pealed to reveal the fruit inside,the object becomes shaped like a coil,2
+banana,peel,the object becomes shaped like a coil,objects have their outer layers removed,the object becomes shaped like a coil,the dark yellow covering of a object is removed,3
+banana,peel,objects have their outer layers removed,the object becomes shaped like a coil,the object becomes shaped like a coil,the inside flesh of the object is made visible,3
+banana,peel,objects have their outer layers removed,the object becomes shaped like a coil,the object becomes shaped like a coil,the object is divided into pieces,3
+banana,peel,objects have their outer layers removed,the object becomes shaped like a coil,the skin of the object is removed so it can be eaten,the object becomes shaped like a coil,2
+banana,peel,a object peel is removed,objects have their outer layers removed,the object becomes shaped like a coil,the object becomes shaped like a coil,0
+banana,peel,the object becomes shaped like a coil,the object becomes shaped like a coil,the object yellow outer layer is being stripped off,objects have their outer layers removed,2
+banana,peel,objects have their outer layers removed,the object becomes shaped like a coil,the inside of the object can now be eaten,the object becomes shaped like a coil,2
+boxes,pile,a object has been cut down the middle,the previously uncollected objects are organized by piling one of top of the other,the objects become stacked on top of one another into a tower,a object has been cut down the middle,1
+boxes,pile,the objects become stacked on top of one another into a tower,a object has been cut down the middle,the objects stood in a tower,a object has been cut down the middle,2
+boxes,pile,the objects become stacked on top of one another into a tower,a object has been cut down the middle,a object has been cut down the middle,the objects are being placed and stacked on top of each other,3
+boxes,pile,a object has been cut down the middle,a object has been cut down the middle,the objects become stacked on top of one another into a tower,the objects are set in a cluster together,3
+boxes,pile,a object has been cut down the middle,the objects become stacked on top of one another into a tower,a object has been cut down the middle,the objects are placed one on top of another,3
+boxes,pile,the objects become stacked on top of one another into a tower,a object has been cut down the middle,the objects are stacked on top of each other to reduce the space they take up,a object has been cut down the middle,2
+boxes,pile,a object has been cut down the middle,a object has been cut down the middle,the objects become stacked on top of one another into a tower,the objects were placed in a column like structure,3
+boxes,pile,a object has been cut down the middle,the objects were in a pile,a object has been cut down the middle,the objects become stacked on top of one another into a tower,1
+boxes,pile,a object has been cut down the middle,the objects become stacked on top of one another into a tower,the objects are moved and placed in stack,a object has been cut down the middle,2
+boxes,pile,a object has been cut down the middle,a object has been cut down the middle,the objects become stacked on top of one another into a tower,the objects were stacked probably haphazardly,3
+paper,roll,object is curled several times around itself,the object is sliced into pieces,object is bent in two and pressed to make a dent,an open object is arranged so it is no longer open,0
+paper,roll,the object is a cylindrical shape,object is bent in two and pressed to make a dent,an open object is arranged so it is no longer open,the object is sliced into pieces,0
+paper,roll,object is bent in two and pressed to make a dent,the object is sliced into pieces,the object becomes a curved round item,an open object is arranged so it is no longer open,2
+paper,roll,an open object is arranged so it is no longer open,object is bent in two and pressed to make a dent,the object is sliced into pieces,the object is turned in on itself,3
+paper,roll,the object is sliced into pieces,object is bent in two and pressed to make a dent,an open object is arranged so it is no longer open,the object is being put on top of itself into a circle,3
+paper,roll,an open object is arranged so it is no longer open,the object is made into a compact form,object is bent in two and pressed to make a dent,the object is sliced into pieces,1
+paper,roll,the object is in a circle,the object is sliced into pieces,object is bent in two and pressed to make a dent,an open object is arranged so it is no longer open,0
+paper,roll,an open object is arranged so it is no longer open,object is bent in two and pressed to make a dent,the object is sliced into pieces,the object is transformed into a tube shape,3
+paper,roll,an open object is arranged so it is no longer open,the object is sliced into pieces,object is bent in two and pressed to make a dent,object is rolled up into a cylinder,3
+paper,roll,object is bent in two and pressed to make a dent,wind the object in order to form a cylinder,the object is sliced into pieces,an open object is arranged so it is no longer open,1
+tree,saw,the object would die as a result of being cut down,the object door is positioned as to block people from seeing into it,the object falls down after it is cut through,the object is cut into smaller pieces,2
+tree,saw,the object door is positioned as to block people from seeing into it,the object would die as a result of being cut down,the object is cut and separated into pieces,the object is cut into smaller pieces,2
+tree,saw,the object becomes detached from it base and is almost ready to fall,the object would die as a result of being cut down,the object door is positioned as to block people from seeing into it,the object is cut into smaller pieces,0
+tree,saw,the object is cut into smaller pieces,the object would die as a result of being cut down,the trunk of the object is separated from the roots,the object door is positioned as to block people from seeing into it,2
+tree,saw,the object shows deep gashes,the object is cut into smaller pieces,the object door is positioned as to block people from seeing into it,the object would die as a result of being cut down,0
+tree,saw,make a cut in the object,the object is cut into smaller pieces,the object would die as a result of being cut down,the object door is positioned as to block people from seeing into it,0
+tree,saw,the object was cut into with a thin toothed blade,the object is cut into smaller pieces,the object would die as a result of being cut down,the object door is positioned as to block people from seeing into it,0
+tree,saw,the object would die as a result of being cut down,the object is cut,the object door is positioned as to block people from seeing into it,the object is cut into smaller pieces,1
+tree,saw,the object teetered then fell to the ground with a loud noise,the object door is positioned as to block people from seeing into it,the object would die as a result of being cut down,the object is cut into smaller pieces,0
+tree,saw,the object would die as a result of being cut down,the object is cut into smaller pieces,the object went from being uncut to being cut,the object door is positioned as to block people from seeing into it,2
+knee,scratch,there is an abrasion of the skin on the object,the object gets smaller,the object is injured and is bleeding,the object surface has been damaged leaving a sobject,2
+knee,scratch,the object is scraped by something usually fingernails to relieve an itch,there is an abrasion of the skin on the object,the object surface has been damaged leaving a sobject,the object gets smaller,0
+knee,scratch,the object gets smaller,the object is cut and bleeding,the object surface has been damaged leaving a sobject,there is an abrasion of the skin on the object,1
+knee,scratch,there is an abrasion of the skin on the object,the object is scraped,the object surface has been damaged leaving a sobject,the object gets smaller,1
+knee,scratch,the object gets smaller,skin is loss from the object,the object surface has been damaged leaving a sobject,there is an abrasion of the skin on the object,1
+knee,scratch,the object surface has been damaged leaving a sobject,there is an abrasion of the skin on the object,the object has its top layer rubbed off,the object gets smaller,2
+knee,scratch,the object is red and scraped,the object surface has been damaged leaving a sobject,the object gets smaller,there is an abrasion of the skin on the object,0
+knee,scratch,the skin of the object was roughly broken,the object surface has been damaged leaving a sobject,the object gets smaller,there is an abrasion of the skin on the object,0
+knee,scratch,the object surface has been damaged leaving a sobject,there is an abrasion of the skin on the object,the skin on the object is roughed up by another item,the object gets smaller,2
+knee,scratch,to alleviate an itch on the object joint,there is an abrasion of the skin on the object,the object gets smaller,the object surface has been damaged leaving a sobject,0
+door,shut,a object is obstructed,the object is closed and is flush inside its frame,the object will be without branches,the object is opposite of being open,1
+door,shut,a object is obstructed,the object is opposite of being open,the object will be without branches,the object is closed with her inside,3
+door,shut,the object will be without branches,the object is opposite of being open,the object was shut quickly behind her so no one will notice she was gone,a object is obstructed,2
+door,shut,a object is obstructed,the object is opposite of being open,the object will be without branches,the object was shut to close it,3
+door,shut,the object will be without branches,the object is opposite of being open,a object is obstructed,the open object was closed shut,3
+door,shut,the object was closed after her entrance,a object is obstructed,the object will be without branches,the object is opposite of being open,0
+door,shut,the object will be without branches,the object was shut,a object is obstructed,the object is opposite of being open,1
+door,shut,a object is obstructed,the object is closed,the object is opposite of being open,the object will be without branches,1
+door,shut,a object is obstructed,the object will be without branches,the object is no longer open it is closed,the object is opposite of being open,2
+door,shut,the object will be without branches,the object is opposite of being open,a object is obstructed,the object is in the closed position,3
+apple,slice,an object is divided into several pieces,the object is flying in the air,the object is divided into multiple pieces,the object is split into pieces,0
+apple,slice,the object is split into pieces,the object is flying in the air,the object is cut into pieces,the object is divided into multiple pieces,2
+apple,slice,the object is flying in the air,the object is cut into smaller pieces likely to be eaten or baked in a pie,the object is divided into multiple pieces,the object is split into pieces,1
+apple,slice,the object is split into pieces,the object is divided into slivers or wedges,the object is divided into multiple pieces,the object is flying in the air,1
+apple,slice,the object is flying in the air,the object is split into pieces,the object is divided into multiple pieces,the object is being cut into a number of pieces,3
+apple,slice,the object is in pieces,the object is divided into multiple pieces,the object is split into pieces,the object is flying in the air,0
+apple,slice,the object is split into pieces,the object is divided into smaller multiple pieces,the object is flying in the air,the object is divided into multiple pieces,1
+apple,slice,the object is divided into multiple pieces,the object is split into pieces,the object is divided into multiple pieces,the object is flying in the air,0
+apple,slice,the object is flying in the air,the object is divided into pieces,the object is divided into multiple pieces,the object is split into pieces,1
+apple,slice,the object is divided into multiple pieces,the object is flying in the air,an object is split into smaller pieces,the object is split into pieces,2
+window,smash,a object is destroyed,the object is broken,the object falls down after being cut through,the object becomes protected from being opened,1
+window,smash,the object becomes protected from being opened,the object falls down after being cut through,a object is destroyed,the object has its glass being shattered,3
+window,smash,a object is broken,a object is destroyed,the object becomes protected from being opened,the object falls down after being cut through,0
+window,smash,the object is broken,the object falls down after being cut through,a object is destroyed,the object becomes protected from being opened,0
+window,smash,the object becomes protected from being opened,a object is destroyed,the objects is shattered into many pieces,the object falls down after being cut through,2
+window,smash,a object is destroyed,the object will shatter into several pieces of glass,the object becomes protected from being opened,the object falls down after being cut through,1
+window,smash,the object is broken into pieces,the object becomes protected from being opened,a object is destroyed,the object falls down after being cut through,0
+window,smash,a object is destroyed,the object is broken into many random parts,the object becomes protected from being opened,the object falls down after being cut through,1
+window,smash,a object is destroyed,the object is broken,the object falls down after being cut through,the object becomes protected from being opened,1
+window,smash,a object is destroyed,the object becomes protected from being opened,the object falls down after being cut through,the object is being broken,3
+shirt,soak,the object is dipped in a body of water,the object is being suspended on a hanger,the object becomes shaped like a coil,the object is submerged in water,3
+shirt,soak,the object is thoroughly wet,the object is dipped in a body of water,the object becomes shaped like a coil,the object is being suspended on a hanger,0
+shirt,soak,the object becomes shaped like a coil,the object is being suspended on a hanger,immerse object into a liquid to make it completely wet,the object is dipped in a body of water,2
+shirt,soak,the object is getting wet,the object becomes shaped like a coil,the object is being suspended on a hanger,the object is dipped in a body of water,0
+shirt,soak,the object is dipped in a body of water,the object becomes shaped like a coil,the object is being suspended on a hanger,a object is submerged in water,3
+shirt,soak,the object is dipped in a body of water,the object becomes shaped like a coil,the object is saturated with water,the object is being suspended on a hanger,2
+shirt,soak,the object is being suspended on a hanger,the object becomes shaped like a coil,the object is dipped in a body of water,the object is made wet with a liquid,3
+shirt,soak,the object is surrounded by water,the object becomes shaped like a coil,the object is dipped in a body of water,the object is being suspended on a hanger,0
+shirt,soak,the object is dipped in a body of water,the object will become damp with liquids,the object becomes shaped like a coil,the object is being suspended on a hanger,1
+shirt,soak,the object becomes wet,the object becomes shaped like a coil,the object is being suspended on a hanger,the object is dipped in a body of water,0
+wood,split,the object is stacked together,the object is divided into pieces,the object is being held by an arm,the object falls into pieces,3
+wood,split,the object is better sized to be burnt,the object is being held by an arm,the object is stacked together,the object is divided into pieces,0
+wood,split,the object is divided into pieces,the object is being divided into more than one piece,the object is stacked together,the object is being held by an arm,1
+wood,split,the object is made into smaller pieces,the object is being held by an arm,the object is stacked together,the object is divided into pieces,0
+wood,split,the object is split into pieces,the object is stacked together,the object is divided into pieces,the object is being held by an arm,0
+wood,split,the object is divided into pieces,the object is stacked together,object is split into smaller pieces,the object is being held by an arm,2
+wood,split,the object is being held by an arm,the object is divided down the middle by a sharp tool,the object is divided into pieces,the object is stacked together,1
+wood,split,the object is divided into pieces,the object is separating into two pieces,the object is being held by an arm,the object is stacked together,1
+wood,split,the object is being held by an arm,the object has become two equal pieces,the object is stacked together,the object is divided into pieces,1
+wood,split,the object is stacked together,the object is being held by an arm,the object is divided into pieces,break the object into two half usually done using an axe,3
+orange,squeeze,a object has been cut down the middle,the rind is being removed from the object,the object is squished to provide juice,the contents of the object are extracted,2
+orange,squeeze,the rind is being removed from the object,the object has force applied to it to removes it juice,the contents of the object are extracted,a object has been cut down the middle,1
+orange,squeeze,the rind is being removed from the object,the contents of the object are extracted,the object is pressed so that juice comes out,a object has been cut down the middle,2
+orange,squeeze,an object juice is squeezed out,a object has been cut down the middle,the rind is being removed from the object,the contents of the object are extracted,0
+orange,squeeze,the object is crushed by pressure,the contents of the object are extracted,a object has been cut down the middle,the rind is being removed from the object,0
+orange,squeeze,a object has been cut down the middle,an object is gripped tightly and compressed,the rind is being removed from the object,the contents of the object are extracted,1
+orange,squeeze,the rind is being removed from the object,a object has been cut down the middle,the object is having pressure applied to it,the contents of the object are extracted,2
+orange,squeeze,the rind is being removed from the object,juice is removed from the object,the contents of the object are extracted,a object has been cut down the middle,1
+orange,squeeze,the contents of the object are extracted,the rind is being removed from the object,the object is firmly gripped using my hands,a object has been cut down the middle,2
+orange,squeeze,a object has been cut down the middle,to make object juice you have to squeeze,the contents of the object are extracted,the rind is being removed from the object,1
+paper,stain,a object color is ruined,something seeps into object and discolours it,the object becomes shaped like a coil,object is bent in two and pressed to make a dent,1
+paper,stain,object is bent in two and pressed to make a dent,object becomes a different color,the object becomes shaped like a coil,a object color is ruined,1
+paper,stain,a object color is ruined,object is bent in two and pressed to make a dent,the object becomes shaped like a coil,the object is being put in the toilet,3
+paper,stain,object is bent in two and pressed to make a dent,a object color is ruined,a object is tainted or blemished by something,the object becomes shaped like a coil,2
+paper,stain,the object becomes shaped like a coil,object is bent in two and pressed to make a dent,a object color is ruined,the object is destroyed,3
+paper,stain,the object becomes shaped like a coil,the object is discolored by a foreign substance,a object color is ruined,object is bent in two and pressed to make a dent,1
+paper,stain,the object becomes shaped like a coil,object is bent in two and pressed to make a dent,a object color is ruined,the object is being marked with a liquid,3
+paper,stain,object is bent in two and pressed to make a dent,the object becomes shaped like a coil,a object color is changed by accident,a object color is ruined,2
+paper,stain,the object is dyed with color,a object color is ruined,object is bent in two and pressed to make a dent,the object becomes shaped like a coil,0
+paper,stain,the object becomes shaped like a coil,object is bent in two and pressed to make a dent,a object color is ruined,leave a mark on the object,3
+coffee,stir,the object has part of it body being swirled,the object is made into smaller parts,the object swirls around in the cup,the object once in a container of some sort has left said container to fall onto any nearby surfaces,2
+coffee,stir,the object is stirred up and spinning,the object has part of it body being swirled,the object once in a container of some sort has left said container to fall onto any nearby surfaces,the object is made into smaller parts,0
+coffee,stir,the object once in a container of some sort has left said container to fall onto any nearby surfaces,the still surface of the object is disturbed and begins to swirl,the object is made into smaller parts,the object has part of it body being swirled,1
+coffee,stir,the object once in a container of some sort has left said container to fall onto any nearby surfaces,the object has part of it body being swirled,object swirls around in cup,the object is made into smaller parts,2
+coffee,stir,the object in the cup gets mixed into a new ratio,the object has part of it body being swirled,the object once in a container of some sort has left said container to fall onto any nearby surfaces,the object is made into smaller parts,0
+coffee,stir,the object has part of it body being swirled,the object is made into smaller parts,the object once in a container of some sort has left said container to fall onto any nearby surfaces,the object was stirred,3
+coffee,stir,the object is made into smaller parts,the object once in a container of some sort has left said container to fall onto any nearby surfaces,her object was mixed,the object has part of it body being swirled,2
+coffee,stir,the object has part of it body being swirled,the object once in a container of some sort has left said container to fall onto any nearby surfaces,the object is made into smaller parts,the object is disturbed in a circular manner to dissolve things like sugar,3
+coffee,stir,the object has part of it body being swirled,the object is made into smaller parts,the object revolves in the cup,the object once in a container of some sort has left said container to fall onto any nearby surfaces,2
+coffee,stir,the object once in a container of some sort has left said container to fall onto any nearby surfaces,the object is made into smaller parts,the object has part of it body being swirled,the object was stirred to mix it up,3
+book,tear,a object is torn into smaller pieces,a object is set aflame,the object divides into two torn sections,the object is warmed for eating,0
+book,tear,a object is set aflame,the object divides into two torn sections,the object is warmed for eating,the object is ripped,3
+book,tear,the object divides into two torn sections,a object is set aflame,the object is split into two,the object is warmed for eating,2
+book,tear,the object will be ripped into several pieces,a object is set aflame,the object is warmed for eating,the object divides into two torn sections,0
+book,tear,the object divides into two torn sections,part of the object is separated in a rough fashion,the object is warmed for eating,a object is set aflame,1
+book,tear,a object is set aflame,the object divides into two torn sections,the object is warmed for eating,the object is divided into smaller peices,3
+book,tear,the object divides into two torn sections,the object is divided into pieces,the object is warmed for eating,a object is set aflame,1
+book,tear,a object is set aflame,the object is split in two,the object is warmed for eating,the object divides into two torn sections,1
+book,tear,a object is set aflame,the object is warmed for eating,the object is torn,the object divides into two torn sections,2
+book,tear,the object divides into two torn sections,a object is set aflame,the door is now destroyed,the object is warmed for eating,2
+frisbee,throw,the object is flying through the air,the object created a mess and stained my shirt,to release and direct the ball to a given location,the object created a mess and stained my shirt,0
+frisbee,throw,the object created a mess and stained my shirt,to release and direct the ball to a given location,the object created a mess and stained my shirt,a object is tossed into the air,3
+frisbee,throw,to release and direct the ball to a given location,the object created a mess and stained my shirt,the object created a mess and stained my shirt,a object is hurled through the air,3
+frisbee,throw,the object created a mess and stained my shirt,the object is flying in the air,to release and direct the ball to a given location,the object created a mess and stained my shirt,1
+frisbee,throw,the object created a mess and stained my shirt,to release and direct the ball to a given location,the object is flying through the air,the object created a mess and stained my shirt,2
+frisbee,throw,to release and direct the ball to a given location,the object created a mess and stained my shirt,the object created a mess and stained my shirt,the object is flying across the park,3
+frisbee,throw,to release and direct the ball to a given location,the object created a mess and stained my shirt,the object flies through the air,the object created a mess and stained my shirt,2
+frisbee,throw,the object created a mess and stained my shirt,the object created a mess and stained my shirt,the object is flying in the air,to release and direct the ball to a given location,2
+frisbee,throw,the object soars through the air,to release and direct the ball to a given location,the object created a mess and stained my shirt,the object created a mess and stained my shirt,0
+frisbee,throw,the object floats in the air,the object created a mess and stained my shirt,to release and direct the ball to a given location,the object created a mess and stained my shirt,0
+tree,trim,the object looks festive for the holiday,object is cut short,the object is divided into multiple pieces,the object would die as a result of being cut down,0
+tree,trim,the object branches are cut so they are tidy,the object is divided into multiple pieces,object is cut short,the object would die as a result of being cut down,0
+tree,trim,the object is divided into multiple pieces,the object would die as a result of being cut down,object is cut short,the object is neater,3
+tree,trim,parts of a object are being cut,object is cut short,the object is divided into multiple pieces,the object would die as a result of being cut down,0
+tree,trim,the object would die as a result of being cut down,the object is divided into multiple pieces,object is cut short,brances and leaves are removed a bit from a object,3
+tree,trim,the object would die as a result of being cut down,the object is being cut shorter,the object is divided into multiple pieces,object is cut short,1
+tree,trim,the object is made to look neat and attractive,the object would die as a result of being cut down,the object is divided into multiple pieces,object is cut short,0
+tree,trim,the object would die as a result of being cut down,object is cut short,the object is divided into multiple pieces,a object limbs are cut short,3
+tree,trim,object is cut short,the object is divided into multiple pieces,the object is having its branches cut,the object would die as a result of being cut down,2
+tree,trim,the object would die as a result of being cut down,the object is being pruned,the object is divided into multiple pieces,object is cut short,1
+rope,twist,the object is being contorted,the object is coiled around a finger,the ball flew through the air via human motion,the object has been arranged like a spiral,0
+rope,twist,the object is being used in a game of tug and war,the object has been arranged like a spiral,the ball flew through the air via human motion,the object is coiled around a finger,0
+rope,twist,spinning the object around itself,the ball flew through the air via human motion,the object is coiled around a finger,the object has been arranged like a spiral,0
+rope,twist,the ball flew through the air via human motion,the object is tightened and made taut,the object is coiled around a finger,the object has been arranged like a spiral,1
+rope,twist,the ball flew through the air via human motion,the object is coiled around a finger,the object has been arranged like a spiral,the object is twirled tightly,3
+rope,twist,the ball flew through the air via human motion,the object has been arranged like a spiral,the object is coiled around a finger,object is forcibly contorted,3
+rope,twist,the ball flew through the air via human motion,the object curls into itself,the object is coiled around a finger,the object has been arranged like a spiral,1
+rope,twist,the object has been arranged like a spiral,the ball flew through the air via human motion,the object is coiled around a finger,object is twirled together,3
+rope,twist,the object is coiled around a finger,a object is being wound around itself,the object has been arranged like a spiral,the ball flew through the air via human motion,1
+rope,twist,the object is coiled around a finger,the object is being turned,the ball flew through the air via human motion,the object has been arranged like a spiral,1
+book,wrap,the object is concealed behind wrapping paper to prepare for shipping,the object is divided into pieces,the object is covered in something to obscure it,a object is set aflame,0
+book,wrap,a object is set aflame,the object is divided into pieces,the object is covered in something to obscure it,the object is now covered in the brown paper,3
+book,wrap,the object is covered in something to obscure it,a object is set aflame,the object is covered in brown paper,the object is divided into pieces,2
+book,wrap,the object is covered in something to obscure it,the object ends up as a wrapped present,the object is divided into pieces,a object is set aflame,1
+book,wrap,the object is divided into pieces,a object is set aflame,the object is covered in something to obscure it,the object is covered with a layer of paper,3
+book,wrap,the object is divided into pieces,a object is set aflame,the object is covered in something to obscure it,the object is surrounded with paper covering all surfaces of the object,3
+book,wrap,a object is set aflame,the object is covered in something to obscure it,the object is divided into pieces,the object is covered on all sides with paper,3
+book,wrap,the object is covered in paper so as to hide what the object is,a object is set aflame,the object is divided into pieces,the object is covered in something to obscure it,0
+book,wrap,a object is set aflame,the object is divided into pieces,the object cover is disguised and packaged for shipping,the object is covered in something to obscure it,2
+book,wrap,the object is divided into pieces,the object was covered and enclosed by paper,a object is set aflame,the object is covered in something to obscure it,1

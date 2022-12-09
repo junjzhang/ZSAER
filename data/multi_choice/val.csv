@@ -1,0 +1,151 @@
+object,action,effect_sentence_1,effect_sentence_2,effect_sentence_3,effect_sentence_4,label
+window,open,the object was left ajar,the object is made so it cannot be opened,outside brown layer of object is taken off leaving only the white inside,the object is open and air is coming in,3
+bottle,squeeze,a object is dropped into a dirty bucket,the object is now out of shape,a object is dropped into a dirty bucket,the doctor writes the word poison on a object to insure everybody can read it and be aware of it,1
+shirt,stain,the object is cut in two,the object has a mark on it,the object is hanging in the closet,the object is cut in two,1
+knee,skin,the objects will be in a pile,the object will be scraped and the skin will be broken and torn,the objects will be in a pile,the objects will be in a pile,1
+football,kick,the ball is being struck by a foot,the object is divided into pieces,the object is divided into pieces,the object is flying through the air,0
+onion,slice,the object is divided into pieces,object becomes cooked is now firmer and edible,the object is being exposed to high heat,the object is divided into multiple pieces,0
+wood,saw,the object is subject to high pressure and is eventually splits into multiple parts,object becomes a charred remain devoid of life,object becomes a charred remain devoid of life,many object pieces are randomly arranged one over another to form a pile,0
+umbrella,open,there is an abrasion of the skin on the object,the object panels are spread open,an open object is arranged so it is no longer open,a object is pulled open to show its contents,1
+tree,burn,a object is set aflame,the bark is being taken off the object,the object is being mixed together,the object catches fire and turns to ash,3
+wood,burn,many object pieces are randomly arranged one over another to form a pile,the object is changed from an open to a close state,the object is on fire,a object is set aflame,2
+hair,trim,object becomes cooked is now firmer and edible,the object is removed from the head,the object is being cut off,object becomes cooked is now firmer and edible,2
+egg,boil,the object is heated until soft,the object turns into a harder substance,the object is heated until soft,the object hardens and solidifies,1
+car,scratch,the object is wrecked and he is in jail,a object is dropped into a dirty bucket,the object was damaged from being scratched,a object is dropped into a dirty bucket,2
+meat,slice,object becomes a charred remain devoid of life,the object is being put into sandwiches for my breakfast,the object is divided into multiple pieces,the object is divided in pieces,1
+door,lock,the object is being shut,the object would not open,the object cannot be moved,the object is moved through the air,1
+potato,cook,the object gets warm and soft,the object hardens and solidifies,the object is put into a stationary position and is unable to be moved,outside brown layer of object is taken off leaving only the white inside,0
+hair,crop,object becomes cooked is now firmer and edible,object is styled by being secured at a certain length,object is submerged in water,object becomes cooked is now firmer and edible,1
+cabinet,close,the object will be in someones hands or bag,make the object so it cannot be passed through,the object cannot be moved,the object was shut up,3
+tree,strip,the object has no leaves,the object will be in someones hands or bag,set object on fire,the object will be in someones hands or bag,0
+tree,cut,the object was cut down,the object trunk is removed from the stump by striking it with the axe,the object is moved through the air,an object is split into small pieces,1
+apple,peel,the colored skin of an object is removed,the object is dropped and shattered,the objecte skin is removed,the object is flying high in the air,0
+meat,chop,the object is divided into multiple pieces,the object is removed from the body,the object is being burnt on the stove,the object is made into many smaller parts,3
+meat,grind,the object is divided in pieces,the object is warmed for eating,the object is warmed for eating,the object is very finely chopped,3
+window,open,outside brown layer of object is taken off leaving only the white inside,the object was left ajar,the object is made so it cannot be opened,the objects are wide open,3
+window,close,the object is shut so it cannot move,outside brown layer of object is taken off leaving only the white inside,make the object so it cannot be passed through,the object is lowered,3
+egg,cook,the object is being prepared for a meal,the object is made into smaller pieces so i can fit into a fire place or stacked,the object is being prepared to be eaten,the object is opened so the inside can be cooked,0
+glass,break,the objects has been damaged from being cracked,the object falls down after being cut through,the objects is shattering into many pieces,the object is split into pieces,2
+shirt,tear,the object is hanging in the closet,the object is broken into many pieces,the object becomes shaped like a coil,a object is being ripped,3
+egg,crack,the object is bad,the object is being broken into two halves to gain access to the yolk,the object is secured tightly,the objects shattered into many tiny shards,1
+door,open,the object is being shut,a object is pulled open to show its contents,the object impacts an item and possibly breaks,the object is positioned so it can be passed through,3
+paper,fold,the object is torn,a person squeezes on a object and the contents squirt out,the folded object is halved in size and is creased at one side,a person squeezes on a object and the contents squirt out,2
+wood,burn,the object releases the warmth,a object is set aflame,the object is changed from an open to a close state,many object pieces are randomly arranged one over another to form a pile,0
+wood,saw,object becomes a charred remain devoid of life,many object pieces are randomly arranged one over another to form a pile,object becomes a charred remain devoid of life,the object is cut into smaller pieces of logs,3
+cabinet,open,the object is well mixed,the object door is moved so the inside can be accessed,a object is opened allowing you to enter the room,the object cannot be moved,1
+meat,grind,the object is reduced to smaller particles,the object is warmed for eating,the object is warmed for eating,the object is divided in pieces,0
+door,close,the object is slid shut,no one can go through that object,the object is shut completely,the object breaks into smaller pieces the two components of the object become one homogeneous substance the two colors of the object become one color,1
+potato,slice,the object is cut into many uniform pieces,the object is warmed for eating,the object is cut into smaller parts,the object skin is taken off,2
+baseball,pitch,the ball is projected into the air and lands metres away,the object is made into smaller parts,a object is thrown into the air,the object is made into smaller parts,2
+egg,crack,the object is secured tightly,the objects shattered into many tiny shards,the object is being opened by force,the object is bad,2
+apple,bite,the object is smaller,in order to empty out the object you need to squeeze it,the inside flesh of the object is made visible,in order to empty out the object you need to squeeze it,0
+wood,cut,the object pieces are on top of each other,an object is split into small pieces,object is split using an axe,a grip is tightening on a object,2
+door,break,the object was forcibly removed from its hinges,the object is ripped,the object is divided into pieces,the object is shut completely,0
+tree,cut,the object is moved through the air,the object is struck horizontally until it is separated from its stump,an object is split into small pieces,the object was cut down,1
+meat,slice,the object is divided into multiple pieces,the object is divided into pieces,object becomes a charred remain devoid of life,the object is divided in pieces,1
+onion,cut,the object is being divided into multiple pieces,a object is pressed together by force,the object is made into smaller pieces,the object is being divided into small pieces,0
+car,crash,a object is dropped into a dirty bucket,a object is dropped into a dirty bucket,the object comes to a stop and rests until the driver returns,the object is deformed when it comes into contact with another item,3
+meat,fry,the objectes were cooked using high heat and oil,the object is split into pieces,the object is divided in pieces,the object is getting cooked in a pan or with oil,3
+paper,rip,a person squeezes on a object and the contents squirt out,the object is now divided into two separate sides,a person squeezes on a object and the contents squirt out,object becomes smaller and is now in parts instead of whole,3
+bottle,label,a object is dropped into a dirty bucket,a object is dropped into a dirty bucket,the cork is out of the object,the object poison was labled,3
+box,wrap,the object has its skin removed,the object has its skin removed,the object is covered by a fabric,the object has its skin removed,2
+books,pile,the objects are all stacked and grouped together,a object has been cut down the middle,a object has been cut down the middle,stack the object together in a group,0
+tree,chop,the bark is being taken off the object,the objects become a uniform consistency and turn yellow,the object is divided into multiple pieces,the object falls and is no longer standing,3
+window,crack,the object is gathered into one rising area,the object is opened just a little bit,the object is shut so it cannot move,the objects shattered into many tiny shards,1
+books,pile,the objects are organized,stack the object together in a group,a object has been cut down the middle,a object has been cut down the middle,0
+eggs,beat,the contents of the object are extracted,objects are whisked together,the yolk and white of the object are completely blended together,the contents of the object are extracted,1
+tree,bend,the object will be in someones hands or bag,set object on fire,the object moves over,the object will be in someones hands or bag,2
+umbrella,roll,the object goes from being small in size to large,the contents of the object are extracted,the object shrinks changes its shape and becomes conical,the contents of the object are extracted,2
+potato,bake,i put a object in the oven to bake it,to make the object a different color than what it originally was,the object is divided into pieces,to make the object a different color than what it originally was,0
+rope,coil,the contents of the object are extracted,the object is tied in such a way that it becomes more secure,the contents of the object are extracted,the object is rolled up,3
+hair,twist,the object is made wet with a liquid,object becomes cooked is now firmer and edible,the object is turned around on itself,object becomes cooked is now firmer and edible,2
+onion,cut,the object is being divided into small pieces,a object is pressed together by force,the object is made into smaller pieces,the object is made into many smaller pieces,3
+apple,bite,in order to empty out the object you need to squeeze it,the inside flesh of the object is made visible,in order to empty out the object you need to squeeze it,the object has a hole,3
+apple,peel,the object skin is removed,the object is flying high in the air,the objecte skin is removed,the object is dropped and shattered,0
+drawer,close,you can see what is inside the object,the object is set afire,a object is closed shut,make the object so it cannot be passed through,2
+paper,rip,the object is now divided into two separate sides,the object is being torn apart,a person squeezes on a object and the contents squirt out,a person squeezes on a object and the contents squirt out,1
+door,smash,the object gets hit,the object is removed from the body,the object is being shut,the object is removed from the body,0
+knee,skin,the objects will be in a pile,the objects will be in a pile,the objects will be in a pile,the object got scratched up and some skin ripped off of it,3
+book,carry,the object is being toted by someone,the object is on fire,the hang is on my arm,something comes out of the object,0
+egg,boil,the object is heated until soft,the object is heated until soft,the object is heated until its insides turn solid,the object hardens and solidifies,2
+apple,peel,the objecte skin is removed,the peel falls away from the object as it is removed,the object is dropped and shattered,the object is flying high in the air,1
+glass,break,the objects has been damaged from being cracked,the objects is split into many pieces,the object is split into pieces,the object falls down after being cut through,1
+cabinet,open,the object is well mixed,the object cannot be moved,a object is opened allowing you to enter the room,the object door is swung outward,3
+bicycle,ride,the objects will be in a pile,the objects will be in a pile,the object is moving forward,the objects will be in a pile,2
+shirt,stain,the object is hanging in the closet,the object is cut in two,the object has a discolored spot on it,the object is cut in two,2
+onion,cut,the object is being divided into small pieces,the object is made into smaller pieces,a object is pressed together by force,the object is making me cry,3
+hair,crop,the object is cut short,object is submerged in water,object becomes cooked is now firmer and edible,object becomes cooked is now firmer and edible,0
+window,shut,the object is closed,an object is heated in an oven or on a stove to make it ready to eat,an object is heated in an oven or on a stove to make it ready to eat,the object is no longer shut so air from outside can enter,0
+tree,bend,set object on fire,the object will be in someones hands or bag,a object is forcibly curved,the object will be in someones hands or bag,2
+baseball,pitch,the object is made into smaller parts,the ball is projected into the air and lands metres away,the object is made into smaller parts,the object is thrown at a player,3
+potato,cut,the object is divided into pieces,the ball is now metres from the starting spot,the object is being sliced,the object goes from an upright and whole position to a down bisected position,2
+onion,slice,the object is being exposed to high heat,the object is divided into multiple pieces,the object falls into pieces,object becomes cooked is now firmer and edible,2
+door,block,the object is removed from the body,a object is secured shut,the object is unable to be moved because something is in the way,the object is removed from the body,2
+car,crash,a object is dropped into a dirty bucket,a object is dropped into a dirty bucket,the object is damaged from bumping into something,the object comes to a stop and rests until the driver returns,2
+door,block,the object is obscured from access,a object is secured shut,the object is removed from the body,the object is removed from the body,0
+tree,cut,an object is split into small pieces,the object was cut down,the object is moved through the air,the object will go from a standing living thing to a prone dead position,3
+apple,peel,the object skin is removed,the objecte skin is removed,the object is flying high in the air,the object is dropped and shattered,0
+apple,throw,heat is added to the object so that it is no longer raw,putting my teeth on the object and chewing,the ball is moved through space due to energy produced by a motion of the arm of the thrower,an object is tossed into the air,3
+coffee,spill,the objects will be in a pile,the object was spilled and made a mess,the objects will be in a pile,the objects will be in a pile,1
+soup,stir,the object mixing together,the object has its skin removed,the object has its skin removed,the object has its skin removed,0
+wood,cut,a grip is tightening on a object,the object pieces are on top of each other,object is forcibly broken into smaller pieces,an object is split into small pieces,2
+shirt,hang,the object is cut in two,the object is discolored by a foreign substance,the object is cut in two,a object is stored in a closet,3
+window,lock,the object cannot be moved,the object is secured,the object is gathered into one rising area,the object was shut,1
+window,open,the object is made so it cannot be opened,outside brown layer of object is taken off leaving only the white inside,the object is pushed ajar,the object was left ajar,2
+window,close,make the object so it cannot be passed through,the object was suggested to be closed to make it warmer,the object is shut so it cannot move,outside brown layer of object is taken off leaving only the white inside,1
+baseball,throw,the ball changed its location,the object flies in the air,the object is flying in the air,the object becomes shaped like a coil,0
+bottle,label,a object is dropped into a dirty bucket,the contents of the object are now known to be dangerous,a object is dropped into a dirty bucket,the cork is out of the object,1
+tree,strip,the object will be in someones hands or bag,set object on fire,to take away all of the outside bark on the object,the object will be in someones hands or bag,2
+bowl,break,the object was laying on the ground,the object was laying on the ground,the object separates randomly into broken parts,the object is split into pieces,2
+door,block,a object is secured shut,the object is removed from the body,the object is removed from the body,the object becomes unable to open,3
+hair,twist,the object is made wet with a liquid,object becomes cooked is now firmer and edible,the object is rotated around itself,object becomes cooked is now firmer and edible,2
+coffee,spill,the objects will be in a pile,the objects will be in a pile,the objects will be in a pile,the dog knock the object cup out of my hands and it spilled down my new shirt and shoes,3
+potato,fry,object is carried somewhere in someones arms or on something with wheels,the objectes are brown and crispy,the object is divided into pieces,the object is heated and sizzled to eat,1
+door,lock,the object is moved through the air,the object is being shut,the object is being bolted so that it may not open,the object cannot be moved,2
+glass,crack,the objects is seperated into many pieces,the object is opened so the inside can be cooked,the objects was cracked,a object is shattered,2
+car,scratch,the object is wrecked and he is in jail,a object is dropped into a dirty bucket,the object shows damage to the paint,a object is dropped into a dirty bucket,2
+hair,shave,object becomes cooked is now firmer and edible,object becomes cooked is now firmer and edible,the object is coiled around a finger,object is removed,3
+orange,peel,the object becomes shaped like a coil,the skin of the object is removed,the object becomes shaped like a coil,the object is divided into pieces,3
+carrot,peel,the object gets smaller,the peel on the object is removed,a object is cut into smaller pieces,object becomes a charred remain devoid of life,0
+carrot,chop,objects have their outer layers removed,the objects is no longer a single piece as it has a fracture in it now,the object is divided into little sections,the object is divided in pieces,2
+apple,cut,putting my teeth on the object and chewing,the object is divided into pieces,the object is divided into pieces,the object is being held by an arm,1
+window,open,the object was left ajar,the object was moved to a position so that the barrier between the outside and inside is broken and air can pass from outside to inside,the object is made so it cannot be opened,outside brown layer of object is taken off leaving only the white inside,1
+hair,twist,object becomes cooked is now firmer and edible,object becomes cooked is now firmer and edible,object is tangled together in a rotating fashion,the object is made wet with a liquid,2
+shirt,tear,the object is ripped,the object becomes shaped like a coil,the object is broken into many pieces,the object is hanging in the closet,0
+hair,trim,the object is removed from the head,object becomes cooked is now firmer and edible,the man went to the barber to trim his object,object becomes cooked is now firmer and edible,2
+bowl,break,the object is split into pieces,the object was laying on the ground,the object was laying on the ground,the object is shattered into many pieces,3
+bottle,label,the cork is out of the object,a object is dropped into a dirty bucket,a object is dropped into a dirty bucket,a object is picked up and is affixed with a safety sticker that has a skull and crossbones printed on it,3
+onion,chop,the object is cut into smaller pieces,the object is heated until softened,the object door is positioned as to block people from seeing into it,the object is divided into multiple pieces,0
+meat,slice,the object is divided into multiple pieces,object is cut into smaller pieces,object becomes a charred remain devoid of life,the object is divided in pieces,1
+car,park,the object is wrecked and he is in jail,a object is dropped into a dirty bucket,the object will stop and be moved into a spot on this street,a object is dropped into a dirty bucket,2
+onion,cut,the object is divided into multiple pieces,the object is being divided into small pieces,the object is made into smaller pieces,a object is pressed together by force,0
+potato,cook,the object hardens and solidifies,the object is put into a stationary position and is unable to be moved,a object is cooked using heat of some sort,outside brown layer of object is taken off leaving only the white inside,2
+rope,knot,the contents of the object are extracted,the contents of the object are extracted,the object becomes shaped like a coil,the object is tied tightly,3
+coffee,spill,the object moves through the air onto the person shirt and absorbs into the material of the shirt,the objects will be in a pile,the objects will be in a pile,the objects will be in a pile,0
+window,crack,the object is gathered into one rising area,the objects shattered into many tiny shards,the object is broken in a line,the object is shut so it cannot move,2
+egg,cook,the object becomes solid and hot,the object is made into smaller pieces so i can fit into a fire place or stacked,the object is opened so the inside can be cooked,the object is being prepared to be eaten,0
+orange,peel,the skin of the object is removed,the object becomes shaped like a coil,the object becomes shaped like a coil,the dark object covering of an object is removed,3
+baseball,pitch,the object is made into smaller parts,the ball is projected into the air and lands metres away,the object is made into smaller parts,the object is thrown and is flying through the air,3
+cabinet,lock,the object is secured and cannot be opened without the correct key,the object is split into pieces,the object was opened to get a cup out,the object has its frame being secured against the panel,0
+book,carry,the object is on fire,the hang is on my arm,something comes out of the object,the object moves from one place to another,3
+shoe,tie,the object stays on the foot,the object has its skin removed,the object has its skin removed,the object has its skin removed,0
+bicycle,ride,the objects will be in a pile,the object is pedaled,the objects will be in a pile,the objects will be in a pile,1
+cup,break,the object is shattering,the object was laying on the ground,the object was laying on the ground,a object is shattered into smaller pieces,3
+window,crack,the object is shattered,the objects shattered into many tiny shards,the object is shut so it cannot move,the object is gathered into one rising area,0
+apple,throw,the object fell to the ground and shattered,heat is added to the object so that it is no longer raw,the ball is moved through space due to energy produced by a motion of the arm of the thrower,putting my teeth on the object and chewing,0
+window,open,the object is made so it cannot be opened,outside brown layer of object is taken off leaving only the white inside,the object was left ajar,the object was opened,3
+apple,bite,the inside flesh of the object is made visible,a piece is removed from the object,in order to empty out the object you need to squeeze it,in order to empty out the object you need to squeeze it,1
+book,burn,a object is set on fire,the object is heated up,object is carried somewhere in someones arms or on something with wheels,object is set aflame,0
+window,close,the object is shut so it cannot move,the object is moved from an open position to a closed position,outside brown layer of object is taken off leaving only the white inside,make the object so it cannot be passed through,1
+eggs,beat,the contents of the object are extracted,the contents of the object are extracted,the yolk and white of the object are completely blended together,the object is being swirled around in a bowl,3
+egg,boil,the object hardens and solidifies,take an object and put it in a pot of water boil the water and then let it cool,the object is heated until soft,the object is heated until soft,1
+hair,bind,to put you object in a ponytail or bun to get it out of the way,the object is coiled around a finger,object becomes cooked is now firmer and edible,object becomes cooked is now firmer and edible,0
+onion,cook,the object is sizzling in the hot pan,the object is divided into multiple pieces,the object is being prepared to be eaten,a fissure is formed in the objects,0
+tree,split,the object will be in someones hands or bag,set object on fire,the object is divided into multiple parts,the object will be in someones hands or bag,2
+hair,crop,object becomes cooked is now firmer and edible,the object is being cut to be short,object is submerged in water,object becomes cooked is now firmer and edible,1
+potato,cook,the object is put into a stationary position and is unable to be moved,the object hardens and solidifies,outside brown layer of object is taken off leaving only the white inside,the object is heated up until soft,3
+apple,cut,the object is being held by an arm,the object will be divided into several pieces,the object is divided into pieces,putting my teeth on the object and chewing,1
+hair,trim,the object is cut,object becomes cooked is now firmer and edible,object becomes cooked is now firmer and edible,the object is removed from the head,0
+onion,cook,the object is being prepared to be eaten,the object is divided into multiple pieces,a fissure is formed in the objects,the object is heated until it is tender,3
+hair,twist,object becomes cooked is now firmer and edible,object becomes cooked is now firmer and edible,the object is made wet with a liquid,object is curled together,3
+wood,cut,an object is split into small pieces,a grip is tightening on a object,object is being chopped,the object pieces are on top of each other,2
