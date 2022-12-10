@@ -2,7 +2,6 @@
 test.ipynb
 /output/
 *.sh
-/data/
 /wandb/
 /baseline/baseline-multiple-choice/
 /baseline/data/
